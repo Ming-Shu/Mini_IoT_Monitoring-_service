@@ -17,7 +17,7 @@ Note:
 
 Commmand line:
 
-     For Python version 3.x+
+    For Python version 3.x+
      
               sudo apt-get install python3-dev
 
