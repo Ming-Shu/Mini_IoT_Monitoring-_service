@@ -39,6 +39,9 @@ Commmand line:
 Reference:  
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-18-04
+
 https://pypi.org/project/paho-mqtt/
+
 https://ithelp.ithome.com.tw/articles/10227131
+
 https://github.com/FreeOpcUa/python-opcua
