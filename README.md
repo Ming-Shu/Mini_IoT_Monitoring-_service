@@ -37,6 +37,8 @@ Commmand line:
             apt install python-opcua        # Library
             apt install python-opcua-tools  # Command-line tools
 
+Sysyem Architecture:
+![image](https://github.com/Ming-Shu/Ming-Shu/Mini_IoT_Monitoring_service/blob/master/Architecture.PNG)
 Reference:  
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-18-04
