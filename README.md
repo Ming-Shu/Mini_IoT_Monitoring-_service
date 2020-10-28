@@ -1,6 +1,7 @@
 # Mini_IoT_Monitoring_service
 
-How to Build a Monitoring System
+How to build a simply monitoring system for your IoT device.
+This code  about creating a monitoring and analytics system for IoT system.We used opcua and mqtt design  this it .This system will auto send machine information to any monitor device.
 
 Package & Tool:
                                   1. Installing Mosquitto
